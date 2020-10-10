@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Podometro</string>
+    <string name="start_podometro">Start Podometro</string>
+    <string name="stop_podometro">Stop Podometro</string>
+    <string name="your_progress_will_be_shown_here_soon">Your progress will be shown here soon</string>
+    <string name="total" />
+    <string name="average" />
+    <string name="steps" />
 </resources>
