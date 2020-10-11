@@ -1,5 +1,7 @@
 # Podometro
-Esta aplicación android proporciona un contador de pasos simple. La app presenta una actividad principal que muestra los pasos realizados por el usuario. Para la obtención del codigo de la app completo contacte conmigo através del siguiente correo fernandocabreracaballero@gmail.com. Para otros desarrollos de aplicaciones que querais que desarrolle,  poneros en contacto conmigo
+Esta aplicación android proporciona un contador de pasos simple. La app presenta una actividad principal que muestra los pasos realizados por el usuario. Para la obtención del codigo de la app completo contacte conmigo através del siguiente correo fernandocabreracaballero@gmail.com. 
+
+Espero que os haya servido. Para otros desarrollos de aplicaciones que querais que desarrolle, poneros en contacto conmigo
 
 ***ENGLISH***
 
@@ -9,5 +11,5 @@ For other application developments that you want, contact me.
 I hope this help you. 
 
 
-Donations: paypal.me/fernandocabrera19
+Donations: https://www.paypal.com/paypalme/fernandocabrera19
 
